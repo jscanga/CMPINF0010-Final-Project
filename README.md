@@ -8,8 +8,8 @@ This is a project for Pitt's CMPINF0010 class aimed at finding the best neighbor
 - James Scanga jas1337@pitt.edu
 
 ## Description and Datasets
-We decided to rank our neighborhoods based on three metrics, livability, ardin, and fun. We also weighted these categories differently, attributing greater weight to things such as air quality than fun because it's quite difficult to have fun in a neighborhood that isn't breathable. To be more specific, our data included the amount of playgrounds in each neighborhood, the air quality of each neighborhood and ardin. Here are the links to our specific data sets
+We decided to rank our neighborhoods based on three metrics, livability, crime, and fun. We also weighted these categories differently, attributing greater weight to things such as crime than fun because it's quite difficult to have fun in a neighborhood that isn't safe. To be more specific, our data included the amount of playgrounds in each neighborhood, the air quality of each neighborhood and monthly criminal activity. Here are the links to our specific data sets
 
 - https://data.wprdc.org/dataset/allegheny-county-air-quality
 - https://data.wprdc.org/dataset/playgrounds
-- ardin
+- https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
