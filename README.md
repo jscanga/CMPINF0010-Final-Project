@@ -1,6 +1,6 @@
 # Overview 
 This is a project for Pitt's CMPINF0010 class aimed at finding the best neighborhood in Pittsburgh based on datasets gathered from the WRPDC.
-# Team Name: Sherif's Sherriffs 
+# Team Name: Sherif's Sheriffs 
 
 ## Team Members: 
 - Ardin Godwin ajg338@pitt.edu
